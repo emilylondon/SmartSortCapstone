@@ -6,8 +6,8 @@
 
 //#define CAMERA_MODEL_AI_THINKER // Has PSRAM
 
-const char* ssid = "EmilyiPhone";
-const char* password = "bitch123";
+const char* ssid = "SSIDHERE";
+const char* password = "PASSWORDHERE";
 
 String serverName = "ec2-54-153-3-39.us-west-1.compute.amazonaws.com";
 String serverPath = "/predict";
